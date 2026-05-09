@@ -233,26 +233,4 @@ Prompt caching (supported by GPT-4o, Claude, Gemini) allows reusing cache tokens
 - Team sharing and collaboration
 - Advanced filtering and sorting
 
-## 🔐 Security
 
-- Client-side data storage (no server)
-- Email/password based authentication
-- localStorage for session management
-- No external API calls (prices hardcoded)
-
-## 📄 License
-
-[Add your license here]
-
-## 👥 Authors
-
-S3K Tech.ai Team
-
-## 📧 Support
-
-For questions or feedback, please create an issue in the repository.
-
----
-
-**Last Updated:** May 2026  
-**Version:** 1.0.0
